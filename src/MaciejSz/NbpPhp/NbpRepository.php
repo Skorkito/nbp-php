@@ -8,7 +8,7 @@ use stdClass as StdClass;
 
 class NbpRepository
 {
-    const XML_URL_PATTERN = 'http://www.nbp.pl/kursy/xml/%s.xml';
+    const XML_URL_PATTERN = 'https://static.nbp.pl/kursy/xml/%s.xml';
 
     /**
      * @var Service\NbpCache
