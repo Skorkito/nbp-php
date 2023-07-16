@@ -28,6 +28,12 @@
     "require": {
         "php": ">=7.0.0"
     },
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/Skorkito/nbp-php.git"
+      }
+    ],
     "suggest": {
         "doctrine/cache": "Allows local cache"
     }
