@@ -6,15 +6,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Maciej Szopiński",
-            "email": "maciej.sz@gmail.com"
+            "name": "Tomasz Sasinowski",
+            "email": "tomasz@edualy.com"
         }
     ],
     "autoload": {
         "psr-0": {
-            "MaciejSz\\NbpPhp\\": "src/",
-            "MaciejSzUt\\NbpPhp\\": "tests/php-unit/src/",
-            "MaciejSzAt\\NbpPhp\\": "tests/behat/src/"
+            "skorkito\\NbpPhp\\": "src/",
+            "skorkito\\NbpPhp\\": "tests/php-unit/src/",
+            "skorkito\\NbpPhp\\": "tests/behat/src/"
         }
     },
     "require-dev": {
